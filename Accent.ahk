@@ -1,5 +1,4 @@
 ;; AutoHotkey Version: 1.x      ; Language: English     :Platform: Win8.1/Win7/Win9x/NT
-;  Author: b23
 Version=1.1
 
 #NoEnv  ; Recommended for performance and compatibility with future AHK releases.
